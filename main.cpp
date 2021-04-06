@@ -1,5 +1,6 @@
 #include<iostream>
 #include<string>
+//git config --global user.name
 struct wxmsg{
     std::string name;
 };
