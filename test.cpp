@@ -1,5 +1,7 @@
 #include <iostream>
 #include <string>
+#include <thread>
+//环形链表
 struct wxmsg{
     std::string name;
 };
